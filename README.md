@@ -48,4 +48,4 @@
 
 - Emacs 28+
 - `magit` or `forge` (optional but recommended)
-- CodeRabbit API key
+- CodeRabbit API keyX
