@@ -17,10 +17,14 @@
 ## Installation
 
 ```elisp
+;; Install emacs4rabbit from MELPA or your preferred package source
 (use-package emacs4rabbit
+  ;; Load after magit so PR context is available
   :after magit
   :config
+  ;; Set your CodeRabbit API key (get one at https://coderabbit.ai)
   (setq emacs4rabbit-api-key "YOUR_CODERABBIT_API_KEY")
+  ;; Enable emacs4rabbit globally
   (emacs4rabbit-mode 1))
 ```
 
