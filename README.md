@@ -10,6 +10,10 @@
 - Works with `magit`, `forge`, and standalone `git-commit` flows
 - Supports GitHub, GitLab, and Bitbucket remotes
 
+# Watch the Demo
+
+[emacs4rabbit — AI Code Review Inside Emacs](https://www.youtube.com/watch?v=DLzxrzFCyOs)
+
 ## Installation
 
 ```elisp
@@ -41,7 +45,3 @@
 - Emacs 28+
 - `magit` or `forge` (optional but recommended)
 - CodeRabbit API key
-
-# Watch the Demo
-
-[emacs4rabbit — AI Code Review Inside Emacs](https://www.youtube.com/watch?v=DLzxrzFCyOs)
