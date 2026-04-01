@@ -12,7 +12,7 @@
 
 # Watch the Demo
 
-[emacs4rabbit — AI Code Review Inside Emacs](https://www.youtube.com/watch?v=DLzxrzFCyOs)
+[emacs4rabbit - Recorded Demo!](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
 ## Installation
 
